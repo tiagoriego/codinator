@@ -6,7 +6,7 @@ Codinator is a simple code to simulate typing "code"
 
 [Click here to try it](https://tiagoriego.github.io/codinator/src/)
 
-![Coding](https://github.com/tiagoriego/codinator/blob/master/screencast.gif)
+![Coding](screencast.gif)
 
 Press `backspace` for auto-typing
 
